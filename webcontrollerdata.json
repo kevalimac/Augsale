@@ -24,7 +24,7 @@
       "link": "paytmmp://pay?pa=cc.9181538395920250@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/pay.webp",
       "enabled": true
-    },
+    }
 
   ],
   "razorpay": {
