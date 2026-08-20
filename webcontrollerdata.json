@@ -9,7 +9,7 @@
   "upiOptions": [
     {
       "paymentName": "PhonePe",
-      "link": "phonepe://pay?pa=cc.9181538395921518@axisbank&pn=Merchant&cu=INR",
+      "link": "phonepe://pay?pa=cc.9181538395920250@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/phone.webp",
       "enabled": true
     }
