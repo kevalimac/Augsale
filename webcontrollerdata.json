@@ -20,7 +20,7 @@
       "link": "paytmmp://pay?pa=paytm.s3avh52@pty&pn=Merchant&cu=INR",
       "upiimg": "/img/pay.webp",
       "enabled": true
-    },
+    }
 
   ],
   "razorpay": {
