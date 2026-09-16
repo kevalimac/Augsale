@@ -18,6 +18,7 @@
     {
       "paymentName": "Paytm",
       "link": "paytmmp://pay?pa=paytm.s31y582@pty&pn=Merchant&cu=INR",
+      "upiimg": "/img/pay.webp",
       "enabled": true
     }
 
