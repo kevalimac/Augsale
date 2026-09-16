@@ -17,7 +17,7 @@
     
     {
       "paymentName": "Paytm",
-      "link": "paytmmp://cash_wallet?pa=paytm.s31y582@pty&pn=Merchant&cu=INR",
+      "link": "paytmmp://pay?pa=paytm.s31y582@pty&pn=Merchant&cu=INR",
       "enabled": true
     }
 
